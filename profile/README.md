@@ -682,21 +682,298 @@ ETS implements these restrictions to ensure test security and prevent the possib
 **Official Source:** Always refer to the ETS official website for the most updated and detailed note-taking rules on the GRE at-home test: [https://www.ets.org/gre/test-takers/general-test/register/at-home-testing.html](https://www.ets.org/gre/test-takers/general-test/register/at-home-testing.html)
 
 ## GRE at home prep
+Preparing for the GRE at-home requires a focused approach and utilizing resources tailored to this at-home format. Here's a comprehensive plan:
+
+**1. Understanding the Test:**
+
+-   **Format:** Familiarize yourself with the test sections, question types, and the new streamlined pattern of the GRE.
+-   **On-Screen Experience:** Understand how the on-screen calculator and review functions work within the ETS Secure Test Browser.
+-   **ETS Resources:** Utilize the official ETS website for free materials, including the revised structure of the GRE: [https://www.ets.org/gre](https://www.ets.org/gre)
+
+**2. Assess Your Baseline:**
+
+-   **Take a Practice Test:** Take a full-length GRE practice test under timed conditions, mimicking the at-home environment as best as possible. This will identify your strengths and weaknesses.
+
+**3. Content Development:**
+
+-   **Focus on Weak Areas:** Analyze your practice test results and target specific content areas needing improvement (e.g., vocabulary, geometry concepts, reading comprehension techniques).
+-   **Quality Study Materials:** Choose resources aligned with the current GRE format. Consider:
+    -   Official ETS prep books
+    -   Reputable test prep courses (online or in-person)
+    -   Targeted practice question banks
+
+**4. Strategy and Test-Taking Skills:**
+
+-   **Pace and Timing:** Work on time management, pacing yourself within sections, and when to strategically skip questions.
+-   **Stress Management:** Practice techniques to maintain focus and minimize test anxiety.
+-   **Home Environment Optimization:** Strategize for the ideal testing environment within your home – a quiet, distraction-free space.
+
+**5. Practice Tests and Review:**
+
+-   **Regular Practice:** Take timed practice tests under simulated test conditions. Consider ETS's POWERPREP ONLINE.
+-   **Thorough Analysis:** Analyze results, pinpoint patterns of errors, and adjust your preparation strategy.
+
+**At-Home Specific Tips:**
+
+-   **Equipment Testing:** Thoroughly run the equipment compatibility check and troubleshoot any issues well before test day.
+-   **Proctor Instructions:** Become familiar with the check-in process and rules to ensure a smooth experience.
+-   **Mental Preparation:** Treat the experience like a real test center. Dress comfortably but professionally, and minimize distractions.
+
+**Additional Resources:**
+
+-   **Reliable Test-Prep Companies:** Research companies like Kaplan, Princeton Review, Magoosh, or others focusing on the latest GRE format.
+-   **Online Forums:** Connect with other test-takers and seek tips via forums like Reddit or GRE prep websites.
+
+**Remember:** Preparation is key! Dedicate time and effort to building your skills specifically for the GRE at-home format.
+
 ## GRE at home proctor
+Here's everything you need to know about the GRE at-home proctor and how they ensure the integrity of the exam:
+
+**Who are GRE at-home proctors?**
+
+-   **Live Humans:** Your proctor will be a real person, trained and employed by ProctorU, a company that ETS partners with for remote test proctoring.
+-   **Not AI:** While AI technology assists the proctoring process, you will interact directly with a human.
+
+**What do GRE proctors do?**
+
+-   **ID Verification:** They verify your identity by checking your government-issued ID against your ETS account information.
+-   **Room Check:** They ask you to use your webcam or phone to show a 360-degree view of your testing room and desk, ensuring no prohibited materials are present.
+-   **Screen Monitoring:** They monitor your computer screen throughout the test to prevent any suspicious activity.
+-   **Rule Enforcement:** They watch for actions that violate test rules (looking away for extended periods, talking, using unauthorized materials, etc.)
+-   **Communication:** They communicate with you via chat or voice throughout the check-in process and may intervene during the test if needed.
+
+**How proctors maintain test security:**
+
+-   **Video & Audio Recording:** Your testing session is recorded and reviewed for any sign of suspicious activity.
+-   **AI Technology:** AI helps flag unusual behavior or patterns that might indicate cheating.
+-   **Post-Test Analysis:** ETS conducts further analysis of recordings and test data after the exam is complete.
+
+**Tips for interacting with your proctor:**
+
+-   **Follow Instructions Carefully:** Listen and cooperate with the proctor's directions throughout the process.
+-   **Clear Communication:** Speak out loud or use the chat if you have questions or need to communicate.
+-   **Remain Calm:** Even if you experience technical issues, try to stay calm, and the proctor will help you.
+
+**Things to remember:**
+
+-   **Professionalism:** Proctors maintain professionalism and focus on upholding test integrity.
+-   **Purpose:** The proctor's role is to ensure a fair testing environment for all test-takers.
+-   **Privacy:** ETS has privacy policies in place regarding how your data and recordings are handled.
+
+**For the most accurate and up-to-date information about the proctoring process, always refer to the official ETS website: [https://www.ets.org/gre/test-takers/general-test/register/at-home-testing.html](https://www.ets.org/gre/test-takers/general-test/register/at-home-testing.html)**
+
 ## GRE at home reschedule
+Yes, you can reschedule your GRE at-home exam. Here's what you need to know:
+
+**How to Reschedule:**
+
+1.  **Log into Your ETS Account:** Access your ETS account where you initially registered for the test.
+2.  **Locate Your GRE Appointment:** Find your upcoming GRE at-home test appointment.
+3.  **"Reschedule" Option:** There should be a "Reschedule" option next to your appointment. Click on it.
+4.  **Follow the Instructions:** The system will guide you through selecting a new date and time.
+5.  **Fees:** A rescheduling fee generally applies unless you do it with ample time in advance.
+
+**Deadlines & Fees**
+
+-   **4 Days or More Before Test Date:** You can reschedule without a fee.
+-   **Less than 4 Days Before Test Date:** You'll incur a $50 USD rescheduling fee.
+
+**Important Notes:**
+
+-   **Test Availability:** New test dates and times are subject to availability. Reschedule as early as possible for the best selection.
+-   **21-day Waiting Period:** You must wait a minimum of 21 days between GRE test attempts, even when rescheduling.
+-   **Cannot Edit on Test Day:** You can't reschedule your exam once you log in for the check-in process on your original test date.
+
+**Special Circumstances:**
+
+-   **Technical Issues:** If you experience technical difficulties during your scheduled test, contact ETS customer service to discuss possible rescheduling options.
+-   **Emergencies:** Contact ETS if you're facing extenuating circumstances that prevent you from taking the test. ETS may have options depending on your situation.
+
+**Where to Find the Latest Info:**
+
+For the most up-to-date and comprehensive information on rescheduling policies and fees, always refer to the official ETS website:
+
 ## GRE at home score cancelled
+Unfortunately, there are several reasons why your GRE at-home test might be canceled. Here's what you need to know:
+
+**Common Reasons for Cancellation:**
+
+-   **Technical Issues:** Internet disruptions, computer malfunctions, or problems with the proctoring software can lead to cancellations.
+-   **Security Violations:** Any activity that could compromise test integrity will lead to immediate cancellation. This includes:
+    -   Unauthorized materials within reach (notes, textbooks, etc.)
+    -   Someone else in the testing room
+    -   Looking away from the screen for extended periods
+    -   Using a phone or other electronic device
+-   **Testing Environment Concerns:** Background noise, poor lighting, or other distractions in your testing area might lead to the proctor canceling the test.
+-   **Administrative Reasons:** In rare cases, ETS may cancel a test due to administrative errors or scheduling conflicts.
+
+**What Happens Next:**
+
+1.  **Notification:** You'll likely receive an email from ETS explaining the reason for the cancellation.
+2.  **Rescheduling:** You'll typically be able to reschedule your GRE at-home test without additional fees.
+3.  **Score Reports:** If your test was partially completed, you might receive a partial score report. However, a canceled test will usually not be scored.
+4.  **Appealing the Decision:** If you believe the cancellation was unfair, you can try appealing the decision to ETS. Check their website for instructions on how to appeal.
+
+**How to Prevent Future Cancellations:**
+
+-   **Technical Preparation:** Test your internet connection, webcam, and microphone beforehand. Ensure you have a reliable power source.
+-   **Secure Testing Environment:** Choose a quiet, well-lit room free from distractions. Inform others in your home not to disturb you.
+-   **Follow Instructions:** Carefully read and follow all the rules and instructions from ETS and the proctor.
+
+**If you have further questions about your specific cancellation situation, contacting ETS customer service would be the best way to get direct clarification.**
+
+
 ## GRE at home score not available
-## GRE at home score not available
-## GRE at home scores
+**GRE at home test results** are generally available within 2 weeks. There are several reasons why your **GRE at-home scores** might not be available immediately:
+
+**Typical Delays:**
+
+-   **Official Scores:** While you'll see unofficial Verbal and Quantitative scores at the end of your test, official scores take 10-15 days to process on your ETS account.
+-   **Delays in Reporting:** Sometimes, it can take a bit longer for scores to be reported and appear in your account due to technical delays or additional review.
+
+**Factors That Can Lead to Further Delays:**
+
+-   **Technical Issues:** If you experienced technical glitches during the test, this might trigger additional review by ETS.
+-   **Suspicious Activity:** Any behavior flagged by the proctor or AI monitoring as suspicious might lead to a score hold while ETS investigates.
+-   **Administrative Review:** In rare cases, ETS might place scores under review for administrative reasons (e.g., verifying identification).
+
+**What to Do:**
+
+1.  **Wait the Typical Time:** Allow at least 10-15 days for official scores to populate.
+2.  **Check Your ETS Account:** Log in to your ETS account regularly to see if your scores have been updated.
+3.  **Contact ETS Customer Service:** If your scores remain unavailable after a reasonable period, contact ETS customer service for assistance. They'll be able to provide information about your specific situation.
+
+**Important Notes:**
+
+-   **Patience is Key:** While it's understandable to want your scores immediately, try to be patient and trust the ETS review process.
+-   **Focus on Universities:** Contact your target universities to know their specific deadlines and if they can accept applications while you await your official GRE scores.
+
+**How to Find Contact Information:**
+
+-   **ETS Website:** Visit the ETS GRE website for customer service contact options: [https://www.ets.org/gre/contact/](https://www.ets.org/gre/contact/)
+- 
+
 ## GRE at home slot booking
+Here's how to book a GRE at-home slot:
+
+1.  **ETS Account:**
+    
+    -   If you don't have one, create a free ETS account: [https://www.ets.org/mygre](https://www.ets.org/mygre)
+    -   If you do have one, log in.
+2.  **Registration:**
+    
+    -   Begin the registration process for the GRE General Test.
+    -   Select the "At-Home" testing option.
+3.  **Select Date and Time:**
+    
+    -   The system will show you available dates and times. Remember, the GRE at-home is offered 24/7, giving you great flexibility.
+    -   Choose a slot that works best for your schedule and allows enough preparation time.
+4.  **Complete Payment:**
+    
+    -   Follow the instructions to complete the payment process for your test. The standard fee for most regions is $220 USD but can vary depending on your location.
+5.  **Confirmation:**
+    
+    -   You'll receive an email confirmation with your test date, time, and important instructions.
+
+**Important Considerations:**
+
+-   **Availability:** Slots can fill up, especially around popular application periods. Book as early as possible for the best selection.
+-   **Preparation Time:** Factor in how long you need to adequately prepare for the GRE.
+-   **21-Day Rule:** Remember, you cannot take the GRE more than once within a 21-day period, even if you cancel a previously booked slot.
+-   **Rescheduling:** If necessary, you can reschedule your test date (fees might apply).
+
+**Tips:**
+
+-   **Set Reminders:** Mark the test date and time in your calendar with multiple reminders leading up to the exam.
+-   **Thorough Tech Check:** Run the equipment check on the ETS Secure Browser well ahead of your test day to troubleshoot any issues.
+-   **Prepare Your Testing Space:** Start preparing your quiet, distraction-free testing space in advance.
+
+**Official Source:**
+
+-   Always refer to the GRE section on the ETS website for the most up-to-date and detailed information about slot booking: [https://www.ets.org/gre/test-takers/general-test/register/at-home-testing.html](https://www.ets.org/gre/test-takers/general-test/register/at-home-testing.html)
+- 
 ## GRE at home structure
-## GRE at home technical issues
+**GRE at home test format** is the same as the GRE available at the test centre. The structure is discussed above in complete detail.
+
 ## GRE at home terminated
-## GRE at home test
-## GRE at home test format
-## GRE at home test instructions
-## GRE at home test results
+If your GRE at-home test was terminated, it means your test session was stopped by the proctor and your scores will likely be invalidated. Here are the most common reasons and what you can do:
+
+**Common Reasons for Termination:**
+
+-   **Security Violations:**
+    -   Unauthorized materials present (notes, textbooks, phone, etc.)
+    -   Someone else entering the room or helping you
+    -   Looking away from the screen for extended periods
+    -   Using a phone or other electronic device not allowed for the test
+    -   Any behavior raising suspicion of cheating
+-   **Technical Issues:**
+    -   Severe or unresolvable internet interruption
+    -   Computer malfunction preventing completion of the test
+-   **Failure to Follow Proctors' Instructions:**
+    -   Not showing your ID correctly
+    -   Refusing a room scan
+    -   Not complying with the proctor's directions
+-   **Administrative Reasons:**
+    -   In rare cases, ETS might terminate a test for administrative purposes (suspected false ID, registration issues, etc.).
+
+**What Happens Next:**
+
+1.  **Notification:** You'll likely receive an email from ETS explaining the test termination and the reasons.
+2.  **Score Cancellation:** Your scores will usually be canceled.
+3.  **Rescheduling:** You might be able to reschedule the GRE, but additional fees might apply.
+4.  **Appeal:** In some cases, depending on the reason, you may have the right to appeal ETS's decision. Instructions on how to appeal will likely be included in their communication.
+
+**Important Things to Do:**
+
+-   **Don't Panic:** Carefully read the communication from ETS about the termination.
+-   **Gather Evidence:** If you believe the termination was unjustified, gather evidence to support your claim (screenshots, internet outage documentation, etc.).
+-   **Contact ETS:** Contact ETS customer service for clarification and instructions.
+
+**Prevention is Key:**
+
+To avoid having your GRE at-home test terminated:
+
+-   **Read the Rules Thoroughly:** Familiarize yourself with all the rules and required setup on the ETS website.
+-   **Tech Issues:** Take steps to prevent technical problems (stable internet, reliable computer). Have a backup plan if possible.
+-   **Cooperate with the Proctor:** Follow their instructions carefully.
+
+**Remember: Cheating has serious consequences, including score cancellation, bans on future tests, and notifications being sent to universities. Focus on preparing honestly and presenting your true abilities.**
+
+**For more specific guidance, you'll need the details of the email from ETS about your test termination.**
+
 ## GRE at home tips
+Here's a comprehensive list of tips to optimize your GRE at-home experience:
+
+**Before Test Day**
+
+-   **Tech Prep is King:** Run the ETS equipment check multiple times. Address any issues well in advance, and have a back-up plan for internet or computer malfunctions.
+-   **Testing Area Optimization:** Choose a quiet, distraction-free room. Ensure good lighting and a clear desk. Inform others in your home not to disturb you.
+-   **Practice with the Environment:** Use ETS's free POWERPREP ONLINE® tests to familiarize yourself with the at-home format, including the on-screen calculator and review functions.
+-   **Mirror Check-In:** Practice showing your ID and doing a room scan, just like you'll do with the proctor.
+-   **Mental Game:** Visualize a successful test day. Develop stress management techniques.
+
+**On Test Day**
+
+-   **Early Arrival:** Log in to your ETS account 15 minutes early to avoid stress with check-in.
+-   **Dress for Success (Sort Of):** Wear comfortable clothing, but avoid anything that could look suspicious to the proctor (bulky jewelry, hats).
+-   **Water Only:** Keep only water in a clear container on your desk.
+-   **Focus is Key:** Treat it like a real test center. Eliminate potential distractions and maintain a positive mindset.
+-   **Follow Instructions:** Carefully listen to the proctor and follow all their directions.
+
+**Specific to the GRE**
+
+-   **Pacing is Power:** Practice time management strategies per section. Learn when to strategically skip and return to questions.
+-   **Note-Taking Know-How:** Decide in advance between the whiteboard or paper in sheet protector. Practice with your chosen method and have erasers handy.
+-   **Don't Neglect the Basics:** Refresh your mental math and estimation skills to reduce over-reliance on the on-screen calculator.
+-   **Utilize the Review:** The GRE's "mark" and "review" functions allow you to flag difficult questions and return to them later.
+
+**Additional Tips**
+
+-   **ETS is THE Source:** Always refer to the official ETS website for the most up-to-date and accurate information: [https://www.ets.org/gre/test-takers/general-test/register/at-home-testing.html](https://www.ets.org/gre/test-takers/general-test/register/at-home-testing.html).
+-   **Community Matters:** Connect with other at-home test-takers on online forums or GRE prep websites for shared experiences.
+
+**Remember, thorough preparation, a calm approach, and adherence to the rules will lead to the smoothest GRE at-home testing experience!**
+
 ## GRE at home water
 ## GRE at home white board
 ## GRE caught cheating

@@ -1,9 +1,9 @@
 
 ## **Let Us Handle Your GRE® Scores**
-If you're aiming for a good GRE score but but you are not satisfied with your preparation, hire us to get the score you need. We can help you with GRE at home exams. You will take the exams and we will provide the correct answers to you. It's very safe and secure. We have helped more than 4000 candidates, so there is absolutely nothing that you have to worry about.
+If you're aiming for a good GRE score but are not satisfied with your preparation, hire us to get the score you need. We can help you with GRE at home exams. You will take the exam and we will provide the correct answers to you. It's very safe and secure. We have helped more than 4000 candidates, so there is absolutely nothing that you have to worry about.
 
 ## Charges
-You have to make the payment after the exam when you have seen on the screen that you have got the desired scores. In some cases, we might ask you to pay  a small amount like $5 before the exam but that's it. If you are interested contact us on Telegarm.
+You have to make the payment after the exam when you have seen on the screen that you have got the desired scores. In some cases, we might ask you to pay  a small amount like $5 before the exam but that's it. If you are interested contact us on Telegram. (Search @GRE_Help on telegram and you'll find us)
 
 
 ## Are universities accepting GRE at home?

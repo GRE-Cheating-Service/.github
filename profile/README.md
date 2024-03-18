@@ -1355,7 +1355,4 @@ yes
 ## Can you cheat on GRE?
 well the short answer is you can.
 
-## Can you cheat on GRE at home?
-I guess it's not a secret anymore in 2024. Many people have cheated and continue to cheat GRE at home.
-## Can you cheat on the GRE at home?
-Once again, YES.
+

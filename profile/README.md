@@ -1328,17 +1328,11 @@ It depends on a lot of things. Contact us on **telegram** (Search @Good_GRE_Scor
 ## What is the failed score for GRE?
 There is nothing passed or failed score in GRE. 260 is minimum, and 340 is maximum. Check your university requirement. if you get lower than that, you can consider that to be your "failed score".
 
-## What is the hardest part of the GRE?
-Everyone is different. Some find Verbal section too difficult, some are not able to do the Quants section, while there are many who such at AWA.
-
 ## What is the lowest passing GRE score?
 260 is lowes GRE score but there is no such lowest "passing" GRE Score.
 
 ## Why did ETS cancel my score?
 It's difficult to say. Write to them to understand it. Or, contact us so that we can help.
-
-## Why is ETS cancelling GRE scores?
-That was a phase initially but it that's not happening in 2024.
 
 ## Will universities know that I have taken the GRE at home?
 yes

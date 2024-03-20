@@ -127,7 +127,7 @@ Yes, you have access to a basic on-screen calculator when taking the GRE at home
 
 **Strategies:**
 
--   **Practice in Advance:** Familiarize yourself with the on-screen calculator beforehand. ETS offers a free on-screen calculator tool for practice: [invalid URL removed]
+-   **Practice in Advance:** Familiarize yourself with the on-screen calculator beforehand. ETS offers a free on-screen calculator tool for practice.
 -   **Use Strategically:** The calculator is helpful for certain calculations, but don't overly rely on it. Many GRE questions are designed to be solvable with mental math or estimation.
 -   **Know Your Shortcuts:** Remember to use the "Transfer Display" button to avoid typing errors when inputting answers.
 
@@ -1327,9 +1327,6 @@ It depends on a lot of things. Contact us on **telegram** (Search @Good_GRE_Scor
 
 ## What is the failed score for GRE?
 There is nothing passed or failed score in GRE. 260 is minimum, and 340 is maximum. Check your university requirement. if you get lower than that, you can consider that to be your "failed score".
-
-## What is the lowest passing GRE score?
-260 is lowes GRE score but there is no such lowest "passing" GRE Score.
 
 ## Why did ETS cancel my score?
 It's difficult to say. Write to them to understand it. Or, contact us so that we can help.
